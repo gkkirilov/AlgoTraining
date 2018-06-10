@@ -5,6 +5,7 @@ function isThisNumberWrong(num, arr) {
             return true;
         }
     }
+
     return false;
 }
 
